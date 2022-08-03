@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_time">Choose time:</string>
+    <string name="open_app_settings">Открыть настройки приложения</string>
+    <string name="mi_brand_title">Владельцам телефонов марки Mi (Xiaomi)</string>
+    <string name="mi_brand_recomend1">Если у вас телефон марки Mi (Xiaomi). Перейдите в настройки приложения с помощью кнопки ниже, чтобы разрешить следующие:</string>
+    <string name="mi_brand_recomend2">Если вы этого не разрешите, программа не будет работать нормально.</string>
+    <string name="next">Следующий</string>
+    <string name="on_top_of_other_windows">Поверх остальных окон</string>
+    <string name="allow">Разрешить</string>
+    <string name="overlay_permission_recomend">"Разрешите этот запрос, чтобы программа просыпалась и предупреждала вас, когда наступило заддоной время, даже когда вы работаете. Если вы этого не разрешите, программа не будет работать нормально. Нажмите кнопку ниже, чтобы разрешить. И найдите приложение "Напоминание" в разделе настроек и включите его."</string>
+</resources>

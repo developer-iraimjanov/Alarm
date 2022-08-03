@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_edit"
+        android:icon="@drawable/ic_edit_popup"
+        android:title="Edit"
+        tools:ignore="HardcodedText"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete"
+        tools:ignore="HardcodedText" />
+</menu>
